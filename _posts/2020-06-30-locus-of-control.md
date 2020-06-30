@@ -37,4 +37,4 @@ B's thought process: I hope the company puts me on the right training and projec
 ## How do you hire for it?
 It should be clear that hiring of internal locus of control should be a priority for organisation's at every stage, but how do you screen for it? There's no one size fits all solution. Engaging with your hiring managers and experienced employees with this model will undoubtedly help you to define some leading indicators of your own.
 
-If you'd like our help in this process, don't hesitate to get in touch: Journeyman.Digital.Ltd@gmail.com
+If you'd like our help in this process, don't hesitate to get in touch: journeyman.digital.ltd@gmail.com

@@ -12,4 +12,4 @@ Our goal is to increase your organisational momentum. Here's a few examples of h
 
 
 ### Contact
-For all customer enquiries: Journeyman.Digital.Ltd@gmail.com
+For all customer enquiries: journeyman.digital.ltd@gmail.com

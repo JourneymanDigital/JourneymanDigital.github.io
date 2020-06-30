@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 tags: [people, talent]
 ---
 
-## The Locus of Control
+## The Locus of Control. 
 Individual effectiveness of team members disproportionally effects early stage companies. A recurring theme in discussions about hiring the right talent for Stage 1 organisations is whether or not a potential employee has attributes similar but not limited to:
 
 - Ambiguity and risk tolerance

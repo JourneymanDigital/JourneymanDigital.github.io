@@ -8,6 +8,7 @@ tags: [people, talent]
 
 ## The Locus of Control
 Individual effectiveness of team members disproportionally effects early stage companies. A recurring theme in discussions about hiring the right talent for Stage 1 organisations is whether or not a potential employee has attributes similar but not limited to:
+
 - Ambiguity and risk tolerance
 - The right attitude and aptitude
 - A 'startup mindset'
@@ -15,9 +16,9 @@ Individual effectiveness of team members disproportionally effects early stage c
 - Culture fit
 
 The unifying thread running through these attributes is what psychologists refer to as an individual's locus of control. There are two types:
-| Internal | External |
-| :------ |:--- |
-| Individuals believe that they can effect their environment. | Individuals believe that their environment effects them. |
+
+- Internal: Individuals believe that they can effect their environment.
+- External: Individuals believe that their environment effects them.
 
 **Example 1**
 Individual A has an internal locus of control and individual B external. Both are contributing to a presentation for their respective companies in the hopes of acquiring a further funding round.
